@@ -1,0 +1,14 @@
+VARIABLEN:
+KontoSaldo Number 
+KontoInhaber Text 
+KontoInhaberID Code 
+KontoWaehrung Text
+
+CODE:
+STRSUBSTNO('Hey %2, dein Kontostand beträgt %1%4! Deine KundenID ist %3', KontoSaldo, KontoInhaber, KontoInhaberID, KontoWaehrung);
+  |        |[                                                           ]      |
+  |        |                                                                   |
+  |        |                                                                   |____ Hier können einzelne Variablen bestehend aus Texten oder Nummern angegeben werden.
+  |        |___ Dies umfasst den ersten Abschnitt, in diesem Kann bspw. Text eingefügt werden. Die %<nummer> stehen für die jeweilige Variable die im
+  |        |___ jeweiligen String angeben werden, bspw. %1 für KontoSaldo und %4 für KontoWaehrung.
+  |____ Anfang der Funktion
