@@ -6,15 +6,6 @@ END;
 
 // IF Grundgerüst <<<
 
-// IF BSP >>>
-
-IF message <> EMPTY THEN BEGIN
-ERROR('Die Nachricht ist nicht leer');
-END;
-
-// IF BSP <<<
-
-
 // IF Aufbau >>>
 
 IF <variable> [OPTIONAL> <=> <2tevariable> <OPTIONAL] THEN BEGIN
