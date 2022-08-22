@@ -1,0 +1,25 @@
+// ELSEIF Grundgerüst >>>
+
+IF <variable> <=> <2tevariable> THEN
+// Code
+END
+
+// IF ENDE beginne mit ELSE
+
+ELSE THEN
+// Code
+END;
+
+// ELSEIF Grundgerüst <<<
+
+// ELSEIF Aufbau >>>
+
+<aufbau wie die IF-Schleife>
+ELSE THEN
+|     |___ Beginne direkt mit der Ausführung des Codes
+|____ Hier beginnt die ELSE
+// Code
+END;
+|___ Beenet die IF
+
+// ELSEIF Aufbau <<<
