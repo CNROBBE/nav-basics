@@ -1,0 +1,1 @@
+Die Clear Funktion wird dazu genutzt um eine Variable von allen vorher hinterlegten Parametern bereinigt wird, ebenfalls werden alle Filter entfernt
