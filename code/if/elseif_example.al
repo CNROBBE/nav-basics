@@ -4,6 +4,6 @@ END
 ELSE THEN
 MESSAGE('Dein Kontostand beträgt nicht 0 EURO')
 // OPTIONAL >>>
-STRSUBNO('Dein Kontostand bträgt %1 EURO', kontostand);
+STRSUBSTNO('Dein Kontostand bträgt %1 EURO', kontostand);
 // OPTIONAL <<<
 END;
