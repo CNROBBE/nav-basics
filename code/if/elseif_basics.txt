@@ -1,12 +1,12 @@
 // ELSEIF Grundgerüst >>>
 
-IF <variable> <=> <2tevariable> THEN
+IF <variable> <=> <2tevariable> THEN BEGIN
 // Code
 END
 
 // IF ENDE beginne mit ELSE
 
-ELSE THEN
+ELSE BEGIN
 // Code
 END;
 
@@ -15,7 +15,7 @@ END;
 // ELSEIF Aufbau >>>
 
 <aufbau wie die IF-Schleife>
-ELSE THEN
+ELSE BEGIN
 |     |___ Beginne direkt mit der Ausführung des Codes
 |____ Hier beginnt die ELSE
 // Code
