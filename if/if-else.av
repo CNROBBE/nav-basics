@@ -1,0 +1,6 @@
+IF <variable> THEN
+// Context
+END 
+ELSE THEN
+// Context
+END;
