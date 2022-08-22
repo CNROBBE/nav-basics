@@ -1,0 +1,8 @@
+CustomerID Code
+CustomerName Text
+CustomerSaldo Integer
+
+MESSAGE('Hallo liebe*r '+CustomerName+' ihr Kontostand beträgt '+CustomerSaldo+'. Ihr Kundennummer ist #'+CustomerID);
+  |          |
+  |          |___ String oder Text mit "+" Zeichen für Variablen
+  |____ Anfang der Message
