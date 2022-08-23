@@ -1,0 +1,1 @@
+Mit der Setfilter Funktion lässt sich eine bereits erstellte "Record-Variable" filtern bzw dessen Output
