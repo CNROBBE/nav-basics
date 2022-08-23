@@ -2,3 +2,4 @@ STRG + G = Öffnet die Globals
 STRG + S = Speichert die Datei
 STRG + R = Führt die ausgewählte Tabelle aus
 STRG + Z = Die letzte Änderung wird rückgängig gemacht (kann öfter genutzt werden)
+F9 = Öffnet den Code der aktuell geöffneten Tabelle/Page etc. (Bei manchen Windows-Geräten nicht nutzbar)
